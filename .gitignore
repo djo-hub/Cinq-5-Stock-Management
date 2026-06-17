@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Application Data (IMPORTANT: Never commit these)
+settings.json
+business.db
+*.db
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+tmp/
+
+# OS files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# PyInstaller
+*.manifest
+*.spec
+dist/
+build/
+
+# Virtual Environment
+manager-env/
+venv/
+
+# Backups
+*.backup
+*.bak
+
+# Environment variables
+.env
+.env.local
+.env.*.local
